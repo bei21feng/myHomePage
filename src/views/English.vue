@@ -1,5 +1,5 @@
 <template>
-  <p>english</p>
+  <p>english hi</p>
 </template>
 
 <script>
